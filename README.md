@@ -48,5 +48,6 @@ data sets in categories (Less than 1000, 1000-4999, etc.).
 * Statiscal analysis using a Box Plot with relationships of the mean, median, IQR, and outliers.
 * Include Pivot Charts with options to filter by subcategory (e.g., plays and space).
 
-Data Source: 
+Data Source: [Kickstarter Challenge Data Set] https://github.com/SJLewer/kickstarter-analysis/blob/main/Kickstarter_Challenge_Submit_Copy.zip
+
 Analyst: Sara Lewer
