@@ -9,16 +9,16 @@ relationship to their launch dates and funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-insert chart image here
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90986041/133950820-ac7eb037-da10-4a75-820a-b3bdd0f2b5ba.png)
+
 ### Analysis of Outcomes Based on Goals
-insert chart image here
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90986041/133950817-f9b80830-7814-47bf-b614-e3eac8dd89df.png)
 
 ### Challenges and Difficulties Encountered: 
-* FORMULA VALIDATION: While validating results of the COUNTIFS formulas,the total count of Fails did not 
-match the total from the filtered Kickerstarter data set.  I found the error in the 
-Greater than 50000" formula.  I forgot the "=" (>=50000).  
-* GRAPH RESULTS: When I was reviewing the Outcomes Based on Goals graph, I noticed there weren't data points 
-for "Less than 1000". I discovered the data range did not include the first data row.
+* FORMULA VALIDATION: While validating results of the COUNTIFS formulas, the total count of Fails did not 
+  match the total from the filtered Kickerstarter data set.  I found the error in the Greater than 50000" formula.  I forgot the "=" (>=50000).  
+* GRAPH RESULTS: When I was reviewing the Outcomes Based on Goals graph, I noticed there weren't data points for "Less than 1000". 
+  I discovered the data range did not include the first data row.
 
 ## Results
 
